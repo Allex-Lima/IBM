@@ -1,1 +1,6 @@
 *.class
+/ProjetoEmpregado/src/.classpath
+/ProjetoEmpregado/src/.gitignore
+/ProjetoEmpregado/src/.project
+/ProjetoEmpregado/src/.settings.eclipse.jdt.core.prefs
+
